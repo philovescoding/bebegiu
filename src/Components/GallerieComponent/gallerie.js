@@ -49,7 +49,7 @@ function Gallerie() {
           }
      }
      useEffect(() => {
-          fetch("https://nutribot.ddns.net/api/gallerie/" + params.id)
+          fetch("https://nutribot.ddns.net:8090/api/gallerie/" + params.id)
                .then((bears) => bears.json())
                .then((text) => {
                     setTest(text)

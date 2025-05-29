@@ -13,7 +13,7 @@ const Admin = (props) => {
      let urls = []
      let grosen = []
      
-     let url = "nutribot.ddns.net:8090"
+     let url = "nutribot.ddns.net"
      let [kleidungg, setKleidung] = useState("")
      let [bears, setBears] = useState("")
      let [accessoiress, setAccessoires] = useState("")

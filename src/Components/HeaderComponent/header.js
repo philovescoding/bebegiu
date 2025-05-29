@@ -92,7 +92,7 @@ function Header() {
      return (
           <div className="Header">
                <nav id="header">
-                    <Link to="/" className="nav-link home">
+                    <Link to="/bebegiu" className="nav-link home">
                          Home
                     </Link>
 

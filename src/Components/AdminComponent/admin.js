@@ -588,13 +588,13 @@ const Admin = (props) => {
           }
 
           if (imgUrl4 !== "") {
-               urls = ["/img/fotos-shop/" + imgUrl1 + ".jpg", "/img/fotos-shop/" + imgUrl2 + ".jpg", "/img/fotos-shop/" + imgUrl3 + ".jpg", "/img/fotos-shop/" + imgUrl4 + ".jpg"]
+               urls = ["/bebegiu/img/fotos-shop/" + imgUrl1 + ".jpg", "/bebegiu/img/fotos-shop/" + imgUrl2 + ".jpg", "/bebegiu/img/fotos-shop/" + imgUrl3 + ".jpg", "/bebegiu/img/fotos-shop/" + imgUrl4 + ".jpg"]
           } else if (imgUrl3 !== "") {
-               urls = ["/img/fotos-shop/" + imgUrl1 + ".jpg", "/img/fotos-shop/" + imgUrl2 + ".jpg", "/img/fotos-shop/" + imgUrl3 + ".jpg"]
+               urls = ["/bebegiu/img/fotos-shop/" + imgUrl1 + ".jpg", "/bebegiu/img/fotos-shop/" + imgUrl2 + ".jpg", "/bebegiu/img/fotos-shop/" + imgUrl3 + ".jpg"]
           } else if (imgUrl2 !== "") {
-               urls = ["/img/fotos-shop/" + imgUrl1 + ".jpg", "/img/fotos-shop/" + imgUrl2 + ".jpg"]
+               urls = ["/bebegiu/img/fotos-shop/" + imgUrl1 + ".jpg", "/bebegiu/img/fotos-shop/" + imgUrl2 + ".jpg"]
           } else if (imgUrl1 !== "") {
-               urls = ["/img/fotos-shop/" + imgUrl1 + ".jpg"]
+               urls = ["/bebegiu/img/fotos-shop/" + imgUrl1 + ".jpg"]
           } else {
                return
           }

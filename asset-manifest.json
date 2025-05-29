@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bebegiu/static/css/main.4606d7c8.css",
-    "main.js": "/bebegiu/static/js/main.23d09358.js",
+    "main.js": "/bebegiu/static/js/main.045da4b1.js",
     "static/media/Kleidung-start.jpg": "/bebegiu/static/media/Kleidung-start.1ceb96b7bf08df4209ec.jpg",
     "static/media/Accessoires-start.jpg": "/bebegiu/static/media/Accessoires-start.8ea537a4830a5cd5ccf3.jpg",
     "static/media/barli.jpg": "/bebegiu/static/media/barli.c5da4101b2a8562dbbee.jpg",
     "index.html": "/bebegiu/index.html",
     "main.4606d7c8.css.map": "/bebegiu/static/css/main.4606d7c8.css.map",
-    "main.23d09358.js.map": "/bebegiu/static/js/main.23d09358.js.map"
+    "main.045da4b1.js.map": "/bebegiu/static/js/main.045da4b1.js.map"
   },
   "entrypoints": [
     "static/css/main.4606d7c8.css",
-    "static/js/main.23d09358.js"
+    "static/js/main.045da4b1.js"
   ]
 }
